@@ -1,0 +1,13 @@
+langchain>=0.0.200
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+tqdm
+requests
+python-multipart
+pdfplumber
+pypdf
+pandas
+openpyxl
+fastapi
+uvicorn
+python-dotenv

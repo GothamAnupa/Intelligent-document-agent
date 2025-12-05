@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+
+# FAISS index
+faiss_index/
+
+# PDF files (optional, if you don’t want to push)
+docs/*.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
